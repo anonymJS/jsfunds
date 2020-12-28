@@ -32,3 +32,6 @@ function loadNumbers(){
 function defaultFunction(){
 
 }; // alap funkció létrehozása és lezárása.
+
+let = változtatható változó.
+consum = fix változó.
